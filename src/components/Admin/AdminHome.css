@@ -1,0 +1,10 @@
+.adminHomeSideBarsLinks{
+    height: 410px;
+    border-radius: 10px;
+    background-color: rgba(30, 39, 39, 0.881);
+    display: flex;
+    color: #ffff;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}

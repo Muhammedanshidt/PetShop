@@ -1,0 +1,8 @@
+.allcollection{
+    margin: 50px;
+    display: flex;
+    
+}
+.container{
+    justify-content: space-around;
+}

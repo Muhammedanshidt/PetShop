@@ -1,0 +1,31 @@
+.navbar{
+display: flex;
+justify-content: space-around;
+border-bottom: 1px solid black;
+}
+/* .myacc{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    font-family:  "Museo",sans-serif;
+} */
+.parentbl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.navber{
+    border-bottom: 1px solid black;
+
+}
+.bicon{
+    /* border: 1px solid black; */
+    border-radius: 0px 0px 25px 25px;
+    padding: 5px;
+    width: 100vw;
+    
+}
+.bicon:hover{
+  background-color: rgb(39, 198, 39);
+  color: #ffff;
+}
